@@ -1,7 +1,7 @@
 ---
 weight:      11
 title:       " 香港、大陸、武汉肺炎最新动态 "
-date:        2019-10-07:36:00-07:00
+date:        2019-10-13:13:53-07:00
 XXresImgTeaser: teaserpics/pixabay.com/monitor-1307227_640.jpg
 description: >
     香港、大陸、武汉肺炎最新动态
@@ -26,6 +26,8 @@ categories:
 
 {{< mydiv4o link="https://hk2005.chinadsf.org/"   text="hk2005   2020年5月的新聞 " bg="lightcoral" >}}
 {{< mydiv4o link="https://hk2005a.chinadsf.org/"  text="hk2005a  2020年5月的新聞a" >}}
+{{< mydiv4o link="https://hk2005a.chinadsf.org/"  text="hk2005a  2020年5月的新聞b" >}}
+{{< mydiv4o link="https://hk2005a.chinadsf.org/"  text="hk2005a  2020年5月的新聞c" >}}
 
 {{< mybrline1 color="blue" >}}
 
